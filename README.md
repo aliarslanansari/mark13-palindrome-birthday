@@ -5,7 +5,7 @@ It is developed using HTML, CSS, JavaScript, [live demo ](https://palindrome-bd.
 #### Features 
 - Takes your user's birthday
 - Tells whether user was born on a palindrome day or not.
-- Uses one of these formats to put dates eg: MM/DD/YYYY, DD/MM/YYYY, MM/DD/YY, etc. Having atleast one date-format out of these is mandatory, adding extra date formats is a bonus.
+- Uses one of these formats to put dates eg: MM/DD/YYYY, DD/MM/YYYY, MM/DD/YY, etc.
 
 #### Screenshot
 ![screenshot](snapshot.PNG)
